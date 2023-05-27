@@ -3,7 +3,7 @@
 	"FileReferences": {
 		"Moc": "草神.moc3",
 		"Textures": [
-			"草神.8192/texture_00.png"
+			"nahida/texture_00.png"
 		],
 		"Physics": "草神.physics3.json",
 		"DisplayInfo": "草神.cdi3.json",
